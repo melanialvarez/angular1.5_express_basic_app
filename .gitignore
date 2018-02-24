@@ -1,0 +1,4 @@
+.idea
+angular-seed/app/bower_components
+angular-seed/node_modules
+backend/myapp/node_modules
